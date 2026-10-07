@@ -16,7 +16,7 @@ resources:
 images:
 - name: PROJECT/TODO-APP
   newName: kassudin/todo-app
-  newTag: 5aa0dbc284ee4f173d88aa00496fc242cc29c1b9
+  newTag: 7d03f66229f9c5f61fc27cb40cee1126caffb363
 - name: PROJECT/TODO-BACKEND
   newName: kassudin/todo-backend
-  newTag: 5aa0dbc284ee4f173d88aa00496fc242cc29c1b9
+  newTag: 7d03f66229f9c5f61fc27cb40cee1126caffb363
